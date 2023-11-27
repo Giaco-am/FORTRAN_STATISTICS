@@ -1,0 +1,4 @@
+# ignore scrappy file:
+*.dat
+*.txt
+*.exe
